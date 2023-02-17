@@ -1,6 +1,0 @@
-whitelist = {
-[49F90557-B1C3-4A26-A23E-8C6FC31AD853] = true,
-[KEY HERE] = true,
-[KEY HERE] = true
-}
-return whitelist
