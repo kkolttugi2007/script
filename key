@@ -1,1 +1,1 @@
-local Key = "looshopisking"
+local whitelist = {"8bdb7c12e7762fba4bde9056d467fe7b26ee2fb3b387f3c524628af40e267d59e1dc26dfac1fa57c2869171efa67f59b25468ab492d6de799fbdedf6b8e40f85"}
